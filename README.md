@@ -1,0 +1,1 @@
+Bugs saat sedang login, terus user dihapus secara manual dari database. 
